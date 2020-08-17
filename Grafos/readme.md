@@ -5,5 +5,5 @@ Esta carpeta contiene instrucciones y material para el primer módulo del curso,
 - Instalar Neo4j (ver pdf con instrucciones)
 
 ## Material Complementario
-- El **[endpoint de wikidata](https://query.wikidata.org/)** y la **[especificación de SPARQL](https://query.wikidata.org/)**
+- El **[endpoint de wikidata](https://query.wikidata.org/)** y la **[especificación de SPARQL](https://www.w3.org/TR/sparql11-query/)**
 - **[Charla](https://www.youtube.com/playlist?list=PLeLV_ztnnBShtlppyzo_ZoIntXceV2LjC)** que di en conferencia ICDT este año
