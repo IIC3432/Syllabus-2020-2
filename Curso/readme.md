@@ -14,3 +14,8 @@ no me gusta tanto la parte de ingeniería de software, me confundo entre tanto c
 
 Estudiante del major de compuación, minor data science que no está seguro si seguir civil o industrial.
 Estuve 3 años en física; quería ser físico teórico. Ahora prefiero dejar eso de hobbie y me embarqué de lleno en la ciencia de datos, o al menos superficialmente por ahora. Soy fanático de python y la librería pandas. Me gusta encontrar la simplicidad en problemas a primera vista complejos. No tengo experiencia en investigación y este es mi primer curso 3000 junto con sistemas recomendadores. Uso anki para todo.
+
+# Isidora Vizcaya isvizcaya@uc.cl
+
+Estudiante del major de Computación, minor Industrial. 
+Este es mi último semestre de carrera, he sido ayudante de Introducción a la Programación y Bases de datos. Me encanta la Ingeniería de Software y actualmente trabajo part-time como desarrolladora web. Me apasiona buscar e implementar soluciones a problemáticas reales a través de la tecnología. Soy fanática de las películas animadas.
