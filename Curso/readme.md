@@ -1,14 +1,14 @@
 ## Integrantes del Curso
 
-La idea es que todos vayan dejando sus contactos, junto a una pequeña bio. 
+La idea es que todos vayan dejando sus contactos, junto a una pequeña bio.
 
 -----------------------------------------------------
 # Juan Reutter jreutter@ing.puc.cl
 
-Profesor del curso, estudió Industrial Computación (en la época del currículo 98). 
-Me gusta trabajar en teoría de computación, con harto de lógica y matemáticas discretas, pero también trabajo en proyectos de data science, 
-haciendo inferencia o usando simulaciones para entender problemáticas sociales. He trabajado en sistemas de bases de datos también, pero 
-no me gusta tanto la parte de ingeniería de software, me confundo entre tanto código y tanta librería. 
+Profesor del curso, estudió Industrial Computación (en la época del currículo 98).
+Me gusta trabajar en teoría de computación, con harto de lógica y matemáticas discretas, pero también trabajo en proyectos de data science,
+haciendo inferencia o usando simulaciones para entender problemáticas sociales. He trabajado en sistemas de bases de datos también, pero
+no me gusta tanto la parte de ingeniería de software, me confundo entre tanto código y tanta librería.
 
 # Ignacio Loyola ialoyola@uc.cl
 
@@ -17,7 +17,7 @@ Estuve 3 años en física; quería ser físico teórico. Ahora prefiero dejar es
 
 # Isidora Vizcaya isvizcaya@uc.cl
 
-Estudiante del major de Computación, minor Industrial. 
+Estudiante del major de Computación, minor Industrial.
 Este es mi último semestre de carrera, he sido ayudante de Introducción a la Programación y Bases de datos. Me encanta la Ingeniería de Software y actualmente trabajo part-time como desarrolladora web. Me apasiona buscar e implementar soluciones a problemáticas reales a través de la tecnología. Soy fanática de las películas animadas.
 
 # Constanza Gaínza cmgainza@uc.cl
@@ -27,8 +27,8 @@ Estudiante de magíster en Ingeniería Matemática, major y minor en Ingeniería
 
 # Cristóbal Eyzaguirre ceyzaguirre4@uc.cl
 
-Título civil computación, major computación, minor data science, y ahora terminando mi magíster en computación también (específicamente en tiempo computacional adaptivo en redes neuronales). 
-He sido ayudante de los ramos Inteligencia Artificial (2 semestres), Deep Learning (1 semestre), Capstone (2 semestres), además de ser profesor del diplomado en Inteligencia Artificial de la universidad. 
+Título civil computación, major computación, minor data science, y ahora terminando mi magíster en computación también (específicamente en tiempo computacional adaptivo en redes neuronales).
+He sido ayudante de los ramos Inteligencia Artificial (2 semestres), Deep Learning (1 semestre), Capstone (2 semestres), además de ser profesor del diplomado en Inteligencia Artificial de la universidad.
 Básicamente, mi tema es el aprendizaje profundo donde contribuyo a varias librerías y tengo una publicación (y media, jajaj).
 Hobbies: cualquier cosa outdoors, especialmente trail running y maratones.
 
@@ -37,4 +37,8 @@ Hobbies: cualquier cosa outdoors, especialmente trail running y maratones.
 Estudiante del título Industrial diploma en TI. Estudié dos años en Francia, por lo que ahora comencé con cursos de magíster. Me gustan mucho las temáticas de data science y business intelligence. Del mismo modo, me gustan harto las aplicación de temas computacionales en casos reales, por lo que actualmente estoy trabajando en un proyecto de visualización de datos con una consultora de Data Science. Mis pasatiempos son la música, el deporte y viajar.
 
 # Domingo Ramírez djramirez@uc.cl
-Estudiante del titulo de Industrial Computación, Major en Computación y Minor en Industrias. Estoy en mi último semestre. He sido ayudante de Introducción a la Programación un par de veces pero lo que realmente me gusta mucho es el potencial de computación para crear soluciones para las personas, me motiva mucho el emprendimineto y hacer el nexo entre tecnologias y negocios. También me interesa mucho el conocimiento solo por el amor al arte así que dedico harto tiempo en investigar y leer sobre todo tipo de cosas interesantes desde historia y filosofia hasta datos curiosos de cosas random. Mi pasatiempo es la música, caminar viendo un lindo paisaje y los autos. 
+Estudiante del titulo de Industrial Computación, Major en Computación y Minor en Industrias. Estoy en mi último semestre. He sido ayudante de Introducción a la Programación un par de veces pero lo que realmente me gusta mucho es el potencial de computación para crear soluciones para las personas, me motiva mucho el emprendimineto y hacer el nexo entre tecnologias y negocios. También me interesa mucho el conocimiento solo por el amor al arte así que dedico harto tiempo en investigar y leer sobre todo tipo de cosas interesantes desde historia y filosofia hasta datos curiosos de cosas random. Mi pasatiempo es la música, caminar viendo un lindo paisaje y los autos.
+
+# Felipe Silva De Vidts lfsilva1@uc.cl
+
+Estudiante Ingeniería Civil Matemática, Major matemáticas, minor en programación y título Civil Matemático y Computacional. Me gusta mucho tanto matemáticas como computación, este último enfocado a desarrollo de software como a científico y claramente las bases de datos. Tengo conocimiento de todo lo mencionado anteriormente (sobre bases de datos cursé IIC2413 y IIC3413), me gusta mucho diseñar software eficiente a todos los niveles y aprovechar la teoría para lograrlo. Tengo un poco de experiencia sobre desarrollo de software específico para algunas empresas. En lo personal me gustan mucho los juegos, películas y música.
