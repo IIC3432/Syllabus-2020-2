@@ -19,3 +19,7 @@ Estuve 3 años en física; quería ser físico teórico. Ahora prefiero dejar es
 
 Estudiante del major de Computación, minor Industrial. 
 Este es mi último semestre de carrera, he sido ayudante de Introducción a la Programación y Bases de datos. Me encanta la Ingeniería de Software y actualmente trabajo part-time como desarrolladora web. Me apasiona buscar e implementar soluciones a problemáticas reales a través de la tecnología. Soy fanática de las películas animadas.
+
+# Constanza Gaínza cmgainza@uc.cl
+
+Estudiante de magíster en Ingeniería Matemática, major y minor en Ingeniería Matemática y título Civil Matemático y Computacional (sí, amo las matemáticas aplicadas).  Este es mi último semestre con ramos. Me gusta la optimización y cuatificación de incertidumbre, por lo que el aprendizaje estadístico es mi gran área de interés. Elegí mi especialidad porque me gusta entender el por qué de las cosas; por lo general dedico más tiempo a leer los papers de scikit-learn que la misma documentación de la librería. Practico kickboxing y tengo 5 perros.
