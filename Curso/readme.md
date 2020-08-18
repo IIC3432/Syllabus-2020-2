@@ -31,3 +31,7 @@ Título civil computación, major computación, minor data science, y ahora term
 He sido ayudante de los ramos Inteligencia Artificial (2 semestres), Deep Learning (1 semestre), Capstone (2 semestres), además de ser profesor del diplomado en Inteligencia Artificial de la universidad. 
 Básicamente, mi tema es el aprendizaje profundo donde contribuyo a varias librerías y tengo una publicación (y media, jajaj).
 Hobbies: cualquier cosa outdoors, especialmente trail running y maratones.
+
+# Matías Vega mxvega@uc.cl
+
+Estudiante del título Industrial diploma en TI. Estudié dos años en Francia, por lo que ahora comencé con cursos de magíster. Me gustan mucho las temáticas de data science y business intelligence. Del mismo modo, me gustan harto las aplicación de temas computacionales en casos reales, por lo que actualmente estoy trabajando en un proyecto de visualización de datos con una consultora de Data Science. Mis pasatiempos son la música, el deporte y viajar.
