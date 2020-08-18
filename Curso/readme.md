@@ -23,3 +23,11 @@ Este es mi último semestre de carrera, he sido ayudante de Introducción a la P
 # Constanza Gaínza cmgainza@uc.cl
 
 Estudiante de magíster en Ingeniería Matemática, major y minor en Ingeniería Matemática y título Civil Matemático y Computacional (sí, amo las matemáticas aplicadas).  Este es mi último semestre con ramos. Me gusta la optimización y cuantificación de incertidumbre, por lo que el aprendizaje estadístico es mi gran área de interés. Elegí mi especialidad porque me gusta entender el por qué de las cosas; por lo general dedico más tiempo a leer los papers de scikit-learn que la misma documentación de la librería. Practico kickboxing y tengo 5 perros.
+
+
+# Cristóbal Eyzaguirre ceyzaguirre4@uc.cl
+
+Título civil computación, major computación, minor data science, y ahora terminando mi magíster en computación también (específicamente en tiempo computacional adaptivo en redes neuronales). 
+He sido ayudante de los ramos Inteligencia Artificial (2 semestres), Deep Learning (1 semestre), Capstone (2 semestres), además de ser profesor del diplomado en Inteligencia Artificial de la universidad. 
+Básicamente, mi tema es el aprendizaje profundo donde contribuyo a varias librerías y tengo una publicación (y media, jajaj).
+Hobbies: cualquier cosa outdoors, especialmente trail running y maratones.
