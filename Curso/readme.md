@@ -35,3 +35,7 @@ Hobbies: cualquier cosa outdoors, especialmente trail running y maratones.
 # Matías Vega mxvega@uc.cl
 
 Estudiante del título Industrial diploma en TI. Estudié dos años en Francia, por lo que ahora comencé con cursos de magíster. Me gustan mucho las temáticas de data science y business intelligence. Del mismo modo, me gustan harto las aplicación de temas computacionales en casos reales, por lo que actualmente estoy trabajando en un proyecto de visualización de datos con una consultora de Data Science. Mis pasatiempos son la música, el deporte y viajar.
+
+# Wenyi He whe1@uc.cl
+
+Estudiante del major de computación, minor data science, título civil computación. Me interesa mucho explorar tecnologías nuevas en el desarrollo de software. He trabajado en distintas empresas para diseñar e implementar softwares usando varios tipos de bases de datos (Lamentablemente nunca he usado bases de datos de grafos). Me gustan mucho los juegos de FPS y simulación.
