@@ -45,4 +45,4 @@ Estudiante Ingeniería Civil Matemática, Major matemáticas, minor en programac
 
 # Sebastián Carrasco sebacarrasco@uc.cl
 
-Estudiante del Major de Computación}y Minor Data Science. Estoy en tercer año y este es mi primer ramo 3000, además que diría que es el primer ramo que tomo tan centrado en la teoría de la computación (junto con estructuras de datos que lo tomé este semestre también). Por lo mismo estoy seguro que todo lo que vea en este curso será nuevo para mí y estoy entusiasmado en aprender. Entre mis intereses, a parte de la computación, se encuentra hacer deporte, ver fútbol o rugby y me gusta bastante star wars.
+Estudiante del Major de Computación y Minor Data Science. Estoy en tercer año y este es mi primer ramo 3000, además que diría que es el primer ramo que tomo tan centrado en la teoría de la computación (junto con estructuras de datos que lo tomé este semestre también). Por lo mismo estoy seguro que todo lo que vea en este curso será nuevo para mí y estoy entusiasmado de aprender. Entre mis intereses, a parte de la computación, se encuentra hacer deporte, ver fútbol o rugby y me gusta bastante star wars.
