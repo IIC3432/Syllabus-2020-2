@@ -42,3 +42,7 @@ Estudiante del titulo de Industrial Computación, Major en Computación y Minor 
 # Felipe Silva De Vidts lfsilva1@uc.cl
 
 Estudiante Ingeniería Civil Matemática, Major matemáticas, minor en programación y título Civil Matemático y Computacional. Me gusta mucho tanto matemáticas como computación, este último enfocado a desarrollo de software como a científico y claramente las bases de datos. Tengo conocimiento de todo lo mencionado anteriormente (sobre bases de datos cursé IIC2413 y IIC3413), me gusta mucho diseñar software eficiente a todos los niveles y aprovechar la teoría para lograrlo. Tengo un poco de experiencia sobre desarrollo de software específico para algunas empresas. En lo personal me gustan mucho los juegos, películas y música.
+
+# Sebastián Carrasco sebacarrasco@uc.cl
+
+Estudiante del Major de Computación}y Minor Data Science. Estoy en tercer año y este es mi primer ramo 3000, además que diría que es el primer ramo que tomo tan centrado en la teoría de la computación (junto con estructuras de datos que lo tomé este semestre también). Por lo mismo estoy seguro que todo lo que vea en este curso será nuevo para mí y estoy entusiasmado en aprender. Entre mis intereses, a parte de la computación, se encuentra hacer deporte, ver fútbol o rugby y me gusta bastante star wars.
