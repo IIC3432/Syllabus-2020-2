@@ -43,6 +43,16 @@ Estudiante del titulo de Industrial Computación, Major en Computación y Minor 
 
 Estudiante Ingeniería Civil Matemática, Major matemáticas, minor en programación y título Civil Matemático y Computacional. Me gusta mucho tanto matemáticas como computación, este último enfocado a desarrollo de software como a científico y claramente las bases de datos. Tengo conocimiento de todo lo mencionado anteriormente (sobre bases de datos cursé IIC2413 y IIC3413), me gusta mucho diseñar software eficiente a todos los niveles y aprovechar la teoría para lograrlo. Tengo un poco de experiencia sobre desarrollo de software específico para algunas empresas. En lo personal me gustan mucho los juegos, películas y música.
 
+
 # Wenyi He whe1@uc.cl
 
 Estudiante del major de computación, minor data science, título civil computación. Me interesa mucho explorar tecnologías nuevas en el desarrollo de software. He trabajado en distintas empresas para diseñar e implementar softwares usando varios tipos de bases de datos (Lamentablemente nunca he usado bases de datos de grafos). Me gustan mucho los juegos de FPS y simulación.
+
+# Sebastián Carrasco sebacarrasco@uc.cl
+
+Estudiante del Major de Computación y Minor Data Science. Estoy en tercer año y este es mi primer ramo 3000, además que diría que es el primer ramo que tomo tan centrado en la teoría de la computación (junto con estructuras de datos que lo tomé este semestre también). Por lo mismo estoy seguro que todo lo que vea en este curso será nuevo para mí y estoy entusiasmado de aprender. Entre mis intereses, a parte de la computación, se encuentra hacer deporte, ver fútbol o rugby y me gusta bastante star wars.
+
+# Dunkan Torres dntorres1@uc.cl
+
+Estudiante del major de computación, minor data science. Este es mi penultimo semestre de carrera, el semestre pasado tome implementacion de sistemas de base de datos, como quise seguir con el tema tome este ramo, por lo que estoy muy entusiasmado por aprender. Soy un fan de las peliculas, series y del anime.
+
