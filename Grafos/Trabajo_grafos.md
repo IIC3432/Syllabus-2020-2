@@ -23,3 +23,6 @@ Comparamos Neo4j contra dos sistemas de bases de datos: Apache Jena por el lado 
 
 ### Grupo 8
 Nuestro trabajo consistió en comparar los tiempos de ejecucion de busqueda de caminos entre nodos. La comparacion se hizo entre usar Neo4J directamente y usar un algoritmo BFS mediante la API en Python de Neo4J, Nuestros resultados están en el siguiente  [video](https://drive.google.com/file/d/15hoWl9aIzLq8QeQp6YykjwTWudiHP_FR/view?usp=sharing). El código se encuentra [aqui](https://drive.google.com/file/d/1nofyEBgCDM2BlMwulGo9BQQCye1J--CA/view?usp=sharing) y presentación se encuentra [aqui](https://docs.google.com/presentation/d/1kuE9SMHO02MBzoaK7vgrhcWgZOMR3KqHPiRZBX-CAsE/edit?usp=sharing)
+
+### Grupo 11
+Presentamos sobre el modelo de datos de Neo4j: en que consiste el modelo de datos de una base de grafos y como Neo4j especificamente lo implementa. Ademas de como se guardan estos datos en disco y los metodos que existen para importarlos. Se finaliza viendo que tan eficiente es el modelo de Neo4j comparado con otras bases de datos y viendo en que casos funciona bien y en que situaciones tiende a fallar. [Video](https://drive.google.com/file/d/1y8kljaJoEy7wqB2Ot0cLk_M349_d7RZe/view?usp=sharing)
