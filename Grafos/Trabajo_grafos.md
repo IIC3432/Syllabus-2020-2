@@ -6,6 +6,9 @@ La idea es seguir el siguiente formato:
 Acá dar una descripción corta corta de lo que hicieron. 
 Y luego postear un [link](https://www.youtube.com/watch?v=t1jUJ4z1cvo), en este caso de autopromocion descarada. 
 
+### Grupo 1
+Hablamos de Sharding en general y cómo es implementado en Neo4J. Mencionamos las situaciones en que es conveniente hacer este tipo de cosas y sus desventajas dependiendo del caso. Tambien se describen las arquitecturas necesarias para hacer que este tipo de partición funcione de manera ideal. El video está [aqui]()
+
 ### Grupo 2
 Describimos los planes de consulta en Neo4J y mostramos optimizaciones posibles de realizar a nivel de usuario y a nivel interno del programa. Luego hacemos un análisis práctico del impacto de las optimizaciones. El video está [aquí](https://youtu.be/ZQpW_RaqBHU).
 
@@ -23,6 +26,9 @@ Comparamos Neo4j contra dos sistemas de bases de datos: Apache Jena por el lado 
 
 ### Grupo 8
 Nuestro trabajo consistió en comparar los tiempos de ejecucion de busqueda de caminos entre nodos. La comparacion se hizo entre usar Neo4J directamente y usar un algoritmo BFS mediante la API en Python de Neo4J, Nuestros resultados están en el siguiente  [video](https://drive.google.com/file/d/15hoWl9aIzLq8QeQp6YykjwTWudiHP_FR/view?usp=sharing). El código se encuentra [aqui](https://drive.google.com/file/d/1nofyEBgCDM2BlMwulGo9BQQCye1J--CA/view?usp=sharing) y presentación se encuentra [aqui](https://docs.google.com/presentation/d/1kuE9SMHO02MBzoaK7vgrhcWgZOMR3KqHPiRZBX-CAsE/edit?usp=sharing)
+
+### Grupo 11
+Presentamos sobre el modelo de datos de Neo4j: en que consiste el modelo de datos de una base de grafos y como Neo4j especificamente lo implementa. Ademas de como se guardan estos datos en disco y los metodos que existen para importarlos. Se finaliza viendo que tan eficiente es el modelo de Neo4j comparado con otras bases de datos y viendo en que casos funciona bien y en que situaciones tiende a fallar. [Video](https://drive.google.com/file/d/1y8kljaJoEy7wqB2Ot0cLk_M349_d7RZe/view?usp=sharing)
 
 ### Grupo 12
 Trabajamos en la base de datos MilleniumDB, una implementación "desde cero" de una base de datos de grafos hecha por un profesor y alumnos de la universidad. En nuestra presentación explicamos cómo funciona, cómo ejecutar consultas en la BD, qué operaciones se pueden hacer actualmente y, además, proponemos una nueva funcionalidad. Posteriormente, analizaremos las principales ventajas y desventajas de MilleniumDB por sobre otros modelos de datos, como el relacional. Terminamos nuestra presentación con un breve comentario sobre los límites teóricos de la base de datos. El enlace para ver la presentación se encuentra [aqui](https://drive.google.com/file/d/1Awr0PyP4P3I9aRzrSjvAiZETavs1TMs2/view?usp=sharing)
