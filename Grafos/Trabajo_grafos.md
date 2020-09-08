@@ -15,5 +15,8 @@ Estudiamos algunos esquemas para modelos de bases de datos en grafos. Particular
 ### Grupo 4
 Revisamos otras bases de datos de grafos aparte de Neo4J que se utilizan en la industria. En particular, Se presenta en detalle Amazon Neptune, y ArangoDB. El link para el [video](https://youtu.be/-ppjrhDJQ4w).
 
+### Grupo 5
+Comparamos la expresividad del lenguaje Cypher con otros (principalmente Gremlin y SPARQL). Luego, propusimos una extensión a Cypher para aumentar su poder expresivo. Esta extensión la implementamos "a la mala" utilizando funciones de Cypher para encontrar el número de Bacon de actores. El video lo pueden encontrar [acá](https://drive.google.com/file/d/1i6IBo85Z8ZHxBkpaxOEat9_fAOERIHAX/view?usp=sharing).
+
 ### Grupo 7
 Comparamos Neo4j contra dos sistemas de bases de datos: Apache Jena por el lado de RDF y Postgres por el lado de las relacionales. Las comparamos a través de consultas de patrones y consultas de agregación.  Esperamos que disfruten el [video](https://www.youtube.com/watch?v=a2yZ2xkj81s&ab_channel=VALENTINAALVAREZGALVEZ).
