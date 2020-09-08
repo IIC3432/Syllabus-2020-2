@@ -7,7 +7,7 @@ Acá dar una descripción corta corta de lo que hicieron.
 Y luego postear un [link](https://www.youtube.com/watch?v=t1jUJ4z1cvo), en este caso de autopromocion descarada. 
 
 ### Grupo 1
-Hablamos de Sharding en general y cómo es implementado en Neo4J. Mencionamos las situaciones en que es conveniente hacer este tipo de cosas y sus desventajas dependiendo del caso. Tambien se describen las arquitecturas necesarias para hacer que este tipo de partición funcione de manera ideal. El video está [aqui]()
+Hablamos de Sharding en general y cómo es implementado en Neo4J. Mencionamos las situaciones en que es conveniente hacer este tipo de cosas y sus desventajas dependiendo del caso. Tambien se describen las arquitecturas necesarias para hacer que este tipo de partición funcione de manera ideal. El video está [aqui](https://drive.google.com/file/d/1IxdgXxL_sE0x6ZWlaeG8_XAJRn-EJesL/view?usp=sharing)
 
 ### Grupo 2
 Describimos los planes de consulta en Neo4J y mostramos optimizaciones posibles de realizar a nivel de usuario y a nivel interno del programa. Luego hacemos un análisis práctico del impacto de las optimizaciones. El video está [aquí](https://youtu.be/ZQpW_RaqBHU).
