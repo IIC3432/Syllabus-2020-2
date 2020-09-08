@@ -32,3 +32,6 @@ Nuestro trabajo consistió en comparar los tiempos de ejecucion de busqueda de c
 
 ### Grupo 11
 Presentamos sobre el modelo de datos de Neo4j: en que consiste el modelo de datos de una base de grafos y como Neo4j especificamente lo implementa. Ademas de como se guardan estos datos en disco y los metodos que existen para importarlos. Se finaliza viendo que tan eficiente es el modelo de Neo4j comparado con otras bases de datos y viendo en que casos funciona bien y en que situaciones tiende a fallar. [Video](https://drive.google.com/file/d/1y8kljaJoEy7wqB2Ot0cLk_M349_d7RZe/view?usp=sharing)
+
+### Grupo 9
+Mi trabajo consitste en implementar una base de datos de delincuentes que pasan por fiscalía en Neo4j, la cual estoy trabajando en mi Práctica 2. En este, considero la creación de csvs, carga de la base de datos, consultas, un modelo alternativo y las proximas directrices que me gustaria seguir en el proyecto. El link se encuentra [aquí](https://drive.google.com/file/d/1QArLOGZy8a6XIOgTZxiQUWqHJWKCIWsT/view?usp=sharing)
