@@ -6,6 +6,9 @@ La idea es seguir el siguiente formato:
 Acá dar una descripción corta corta de lo que hicieron. 
 Y luego postear un [link](https://www.youtube.com/watch?v=t1jUJ4z1cvo), en este caso de autopromocion descarada. 
 
+### Grupo 1
+Hablamos de Sharding en general y cómo es implementado en Neo4J. Mencionamos las situaciones en que es conveniente hacer este tipo de cosas y sus desventajas dependiendo del caso. Tambien se describen las arquitecturas necesarias para hacer que este tipo de partición funcione de manera ideal. El video está en [aqui]()
+
 ### Grupo 2
 Describimos los planes de consulta en Neo4J y mostramos optimizaciones posibles de realizar a nivel de usuario y a nivel interno del programa. Luego hacemos un análisis práctico del impacto de las optimizaciones. El video está [aquí](https://youtu.be/ZQpW_RaqBHU).
 
@@ -17,9 +20,6 @@ Revisamos otras bases de datos de grafos aparte de Neo4J que se utilizan en la i
 
 ### Grupo 5
 Comparamos la expresividad del lenguaje Cypher con otros (principalmente Gremlin y SPARQL). Luego, propusimos una extensión a Cypher para aumentar su poder expresivo. Esta extensión la implementamos "a la mala" utilizando funciones de Cypher para encontrar el número de Bacon de actores. El video lo pueden encontrar [acá](https://drive.google.com/file/d/1i6IBo85Z8ZHxBkpaxOEat9_fAOERIHAX/view?usp=sharing).
-
-### Grupo 6 
-Investigamos los índices en neo4j, cuándo funcionan y qué pasa en los distintos casos; además comparamos experimentalmente el rendimiento con índices contra sin índices variando también el tamaño de la base de datos. El video está [por aquí](https://drive.google.com/file/d/1LkOPRUagi1b7MRP9eETQYyNotI1UacFj/view?usp=sharing).
 
 ### Grupo 7
 Comparamos Neo4j contra dos sistemas de bases de datos: Apache Jena por el lado de RDF y Postgres por el lado de las relacionales. Las comparamos a través de consultas de patrones y consultas de agregación.  Esperamos que disfruten el [video](https://www.youtube.com/watch?v=a2yZ2xkj81s&ab_channel=VALENTINAALVAREZGALVEZ).
