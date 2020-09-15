@@ -5,8 +5,11 @@ Esta carpeta contiene instrucciones y material para el segundo módulo del curso
 
 ## Material Complementario
 - Extended abstract de **[Recursion para SPARQL](https://adriansoto.cl/pdf/recsparql.pdf)** y la **[versión completa](https://adriansoto.cl/pdf/recsparql-journal.pdf)**.
+- Una buena introducción a lenguajes para grafos basados en reglas **[Paper](http://dvrgoc.ing.puc.cl/data/RW2016.pdf)** y **[slides](http://jreutter.sitios.ing.uc.cl/talks/RW2016.zip)**.
 - Propuesta de lenguaje para **[in-database analytics en SPARQL](https://adriansoto.cl/pdf/sparqal.pdf)**.
 - Paper sobre **[Analytica con matrices](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.167.3637&rep=rep1&type=pdf)** y un **[framework con los mismos principios](https://arxiv.org/pdf/1503.07241.pdf)**.
+
+
 
 ## Sistemas 
 - Librería Neo4j con **[Algoritmos](https://neo4j.com/docs/graph-data-science/current/algorithms/)**.
