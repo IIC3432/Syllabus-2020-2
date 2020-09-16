@@ -11,3 +11,12 @@ Para ir dejando las grabaciones de las clases
 #Clase 18/08
 
 [Clase en drive](https://drive.google.com/file/d/1Ub18dyZ7eyFKBc08zWzSrJOqho9bv8Yr/view?usp=sharing)
+
+## Graph Analytics
+
+#Clase 15/09
+
+[Clase en zoom](https://zoom.us/rec/share/PJfDeNRkkuOxsyff-xCF1tnF_LU-LMPoBQWzVBvrs-c1pDZcWypCH3AdG59DE5D2.Qb7YQnpHlp_-1Sin)
+
+
+
