@@ -9,8 +9,8 @@ Esta carpeta contiene instrucciones y material para el segundo módulo del curso
 - Una buena introducción a lenguajes para grafos basados en reglas **[Paper](http://dvrgoc.ing.puc.cl/data/RW2016.pdf)** y **[slides](http://jreutter.sitios.ing.uc.cl/talks/RW2016.zip)**.
 - Propuesta de lenguaje para **[in-database analytics en SPARQL](https://adriansoto.cl/pdf/sparqal.pdf)**.
 - Paper sobre **[Analytica con matrices](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.167.3637&rep=rep1&type=pdf)** y un **[framework con los mismos principios](https://arxiv.org/pdf/1503.07241.pdf)**.
-- **[Libro]** con una introducción bien completa a graph neural networks y un **[survey](https://arxiv.org/abs/1901.00596v1)** con muchos de los avances recientes.  
-- Dos papers sobre poder expresivo en message passing networks (de la formalización verán que no importa si las funciones son dadas o se aprenden). Primero **[framework general](https://arxiv.org/abs/1810.02244)** y luego **[conexión con logica/bases de datos](https://sigmodrecord.org/publications/sigmodRecord/2006/pdfs/03_Principles_Barcelo.pdf)**.
+- **[Libro](https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf)** con una introducción bien completa a graph neural networks y un **[survey](https://arxiv.org/abs/1901.00596v1)** con muchos de los avances recientes.  
+- Dos papers sobre poder expresivo en message passing networks (de la formalización verán que no importa si las funciones son dadas, como en pregel, o se aprenden). Primero **[framework general](https://arxiv.org/abs/1810.02244)** y luego **[conexión con logica/bases de datos](https://sigmodrecord.org/publications/sigmodRecord/2006/pdfs/03_Principles_Barcelo.pdf)**.
 
 ## Sistemas 
 - Librería Neo4j con **[Algoritmos](https://neo4j.com/docs/graph-data-science/current/algorithms/)**. NOTA: Neo4j también implementa pregel. 
