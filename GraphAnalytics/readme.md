@@ -3,6 +3,7 @@ Esta carpeta contiene instrucciones y material para el segundo módulo del curso
 ## Material Obligatorio 
 - Videos sobre [recursion](https://drive.google.com/file/d/1vx9kezAy0KE1O6gH9q8NMj_z6qDZEXG_/view?usp=sharing) y [graph updates](https://drive.google.com/file/d/1-jcxJW4k_p8vrIC2VO0qXBDMC29Tb0LD/view?usp=sharing), y sobre [matrices](https://drive.google.com/file/d/16lVz0ZKhDRCHCVYiepWdkvoCdGg3Gwe9/view?usp=sharing).
 - Paper original de [Pregel](http://www.informatica.uniroma2.it/upload/2018/IA2/Pregel%20-%20A%20System%20for%20Large-Scale%20Graph%20Processing.pdf)
+- Video sobre [message passing networks](https://drive.google.com/file/d/1th4eT6R2jBuMEvcTVuZkd7OOmXi1OCSG/view?usp=sharing). 
 
 ## Material Complementario
 - Extended abstract de **[Recursion para SPARQL](https://adriansoto.cl/pdf/recsparql.pdf)** y la **[versión completa](https://adriansoto.cl/pdf/recsparql-journal.pdf)**.
