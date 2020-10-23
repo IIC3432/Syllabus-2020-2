@@ -14,6 +14,9 @@ En el contexto la práctica 2, se hace graph analytics sobre la base de datos de
 En nuestra presentación hablamos de Pregel y Giraph. Se explica el funcionamiento y se describe su MPN. Adicionalmente se muestran algunos ejemplos y se estudia la expresividad de estos sistemas, los problemas aplicados que se pueden resolver de forma fácil y aquellos que resultan incómodos de trabajar.
 El video se puede ver [aqui](https://drive.google.com/file/d/1bIWwE2ILeanWEGE5BxzgnFObrHQ_nA3-/view?usp=sharing).
 
+### Grupo 3
+En nuestra presentación explicamos lo que nosotros entendimos por Graph Updates, vemos algunos algoritmos implementados en Neo4j y luego recreamos dichos algoritmos utilizando graph updates, luego comparamos los rendimientos entre los algoritmos y finalmente hablamos de las limitaciones y futuro trabajo para quienes desean seguir por esta rama. El video se encuentra [aquí](https://youtu.be/8qE18u-39BQ)
+
 ### Grupo 4
 
 Nuestra presentación expone sobre las operaciones en Graph Update y su simil en operaciones matriciales sobre grafos. Repasamos 3 algoritmos clásicos  de operación sobre grafos (BFS, PageRank y contar triangulos) haciendo un analogo entre las distintas operaciones matriciales y su simil en graph updates. El video se encuentra [aquí](https://drive.google.com/file/d/1Z3oZ9JpvqUr2-1n8ZMqGtWgM164y9VIj/view?usp=sharing)
