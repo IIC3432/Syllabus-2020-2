@@ -21,5 +21,8 @@ En nuestra presentación explicamos lo que nosotros entendimos por Graph Updates
 
 Nuestra presentación expone sobre las operaciones en Graph Update y su simil en operaciones matriciales sobre grafos. Repasamos 3 algoritmos clásicos  de operación sobre grafos (BFS, PageRank y contar triangulos) haciendo un analogo entre las distintas operaciones matriciales y su simil en graph updates. El video se encuentra [aquí](https://drive.google.com/file/d/1Z3oZ9JpvqUr2-1n8ZMqGtWgM164y9VIj/view?usp=sharing)
 
+### Grupo 5
+En este video vamos a hablar sobre las (GNN) y su relación con Message Passing Networks. Vemos tres ejemplos prácticos de aplicaciones de GNN y algunas arquitecturas que nos parecieron las más importantes. Les dejamos nuestro video en el [link](https://drive.google.com/file/d/1BBmg0WwsDSmXk6j7HDAWoC_hAV7tXpyK/view?usp=sharing).
+
 ### Grupo 6
 En nuestra presentación exponemos el sistema de GraphBLAS, el cual es una api en C para realizar analítica de grafos basado en operaciones matriciales. Para lo anterior, primero presentamos la teoría en la cual se basa el sistema, seguido de una exposicion del sistema y el trabajo existente alrededor de él en la actualidad, luego analizamos la api en su versión de python, y finalmente se muestran problemas quse se pueden resolver usando GraphBLAS. El video de nuestra presentación se puede encontrar [aquí](https://drive.google.com/file/d/1Pqgi6aiJxfyTbrkq-yXNStoAmxuR9FNl/view?usp=sharing).
