@@ -29,3 +29,6 @@ En este video vamos a hablar sobre las Redes Neuronales de Grafos (GNN) y su rel
 
 ### Grupo 6
 En nuestra presentación exponemos el sistema de GraphBLAS, el cual es una api en C para realizar analítica de grafos basado en operaciones matriciales. Para lo anterior, primero presentamos la teoría en la cual se basa el sistema, seguido de una exposicion del sistema y el trabajo existente alrededor de él en la actualidad, luego analizamos la api en su versión de python, y finalmente se muestran problemas quse se pueden resolver usando GraphBLAS. El video de nuestra presentación se puede encontrar [aquí](https://drive.google.com/file/d/1Pqgi6aiJxfyTbrkq-yXNStoAmxuR9FNl/view?usp=sharing).
+
+### Grupo 9
+En esta presentación se habla sobre Message Passing Neural Networks, desde su applicación en grafos para extraer caracteristicas que los reprsenten y asi permitir su clasificacion, hasta ventajas y aplicaciones actuales que se le da al algoritmo. El video se encuentra en el siguiente link [link](https://youtu.be/v9NynxkYDJ4).
