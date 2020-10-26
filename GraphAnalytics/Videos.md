@@ -22,7 +22,7 @@ En nuestra presentación explicamos lo que nosotros entendimos por Graph Updates
 
 ### Grupo 4
 
-Nuestra presentación expone sobre las operaciones en Graph Update y su simil en operaciones matriciales sobre grafos. Repasamos 3 algoritmos clásicos  de operación sobre grafos (BFS, PageRank y contar triangulos) haciendo un analogo entre las distintas operaciones matriciales y su simil en graph updates. El video se encuentra [aquí](https://drive.google.com/file/d/1Z3oZ9JpvqUr2-1n8ZMqGtWgM164y9VIj/view?usp=sharing)
+Nuestra presentación expone sobre las operaciones en Graph Update y su simil en operaciones matriciales sobre grafos. Repasamos 3 algoritmos clásicos  de operación sobre grafos (BFS, PageRank y contar triangulos) haciendo un analogo entre las distintas operaciones matriciales y su simil en graph updates. El video se encuentra [aquí](https://drive.google.com/file/d/1Z3oZ9JpvqUr2-1n8ZMqGtWgM164y9VIj/view?usp=sharing) y las slides [acá](https://docs.google.com/presentation/d/1jiNhxw24jAncMkHBcHwBaXyv-BAVs6-e-KtTcT4JcNY/edit?usp=sharing).
 
 ### Grupo 5
 En este video vamos a hablar sobre las Redes Neuronales de Grafos (GNN) y su relación con Message Passing Networks. Vemos tres ejemplos prácticos de aplicaciones de GNN y algunas arquitecturas que nos parecieron las más importantes. Les dejamos nuestro video en el [link](https://drive.google.com/file/d/1BBmg0WwsDSmXk6j7HDAWoC_hAV7tXpyK/view?usp=sharing).
