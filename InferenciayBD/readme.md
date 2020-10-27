@@ -10,5 +10,6 @@ Esta carpeta contiene instrucciones y material para el tercer módulo del curso,
 - Paper sobre [inferencia causal con modelos gráficos y bases de datos](https://linqs.soe.ucsc.edu/sites/default/files/papers/salami-sigmod20.pdf). 
 
 ## Material Complementario
-- 
+- Buen [tutorial](https://homes.cs.washington.edu/~suciu/Tutorial-Full.pdf) como punto de partida para estudiar como la inferencia ayuda a definir el concepto de explicar de donde vienen las respuestas en una base de datos. 
+- Libro introductorio del [framework de Pearl](). 
  
