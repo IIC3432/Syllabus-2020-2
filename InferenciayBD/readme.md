@@ -12,4 +12,6 @@ Esta carpeta contiene instrucciones y material para el tercer módulo del curso,
 ## Material Complementario
 - Buen [tutorial](https://homes.cs.washington.edu/~suciu/Tutorial-Full.pdf) como punto de partida para estudiar como la inferencia ayuda a definir el concepto de explicar de donde vienen las respuestas en una base de datos. 
 - Libro introductorio del [framework de Pearl](). 
+- Clase sobre [potential outcomes](https://www2.cs.duke.edu/courses/fall15/compsci590.6/Lectures/Lecture-17.pdf), pensando en computación. 
+- Para partir averiguando sobre el tema de [descubrir relaciones causales en grafos](http://ceur-ws.org/Vol-2465/semex_paper4.pdf).
  
