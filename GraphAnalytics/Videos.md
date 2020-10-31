@@ -36,3 +36,6 @@ Nuestra presentación muestra algunos experimentos respecto a encontrar patrones
 
 ### Grupo 9
 En esta presentación se habla sobre Message Passing Neural Networks, desde su applicación en grafos para extraer características que los representen y así permitir su clasificación, hasta ventajas y aplicaciones actuales que se le da al algoritmo. El video se encuentra en el siguiente link [link](https://youtu.be/v9NynxkYDJ4).
+
+### Grupo 10
+La presentación es sobre Message Passing Neural Networks, qué son, cómo se utiliza Message Passing en Redes Neuronales de Grafos y algunas limitaciones teóricas del modelo. [link](https://drive.google.com/file/d/1GuzLSYlpcfQF3PFYvVs85JwNQLrY0yxH/view?usp=sharing).
