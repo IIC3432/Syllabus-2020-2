@@ -15,7 +15,7 @@ En nuestra presentación hablamos de Pregel y Giraph. Se explica el funcionamien
 El video se puede ver [aqui](https://drive.google.com/file/d/1bIWwE2ILeanWEGE5BxzgnFObrHQ_nA3-/view?usp=sharing).
 
 ### Grupo 2
-Nos encargamos de desarrollar una interfaz para ocupar y analizar las librerías NetworkX y neo4j Graph Data Science Library, generando insights importantes sobre los algoritmos en que mejor se desempeña el uno o el otro. Vea nuestro video [aqui] (https://drive.google.com/file/d/1OZsNuW2VcbgCQV_I6hevEDnsdqZtyI_z/view?usp=sharing).
+Nos encargamos de desarrollar una interfaz para ocupar y analizar las librerías NetworkX y neo4j Graph Data Science Library, generando insights importantes sobre los algoritmos en que mejor se desempeña el uno o el otro. Vea nuestro video [aqui] (https://drive.google.com/file/d/1OZsNuW2VcbgCQV_I6hevEDnsdqZtyI_z/view?usp=sharing). Codigo [aqui] (https://colab.research.google.com/drive/1vxKGRfCQMhJBhYqvDz5d_bLlYKZxwCUW?usp=sharing)
 
 ### Grupo 3
 En nuestra presentación explicamos lo que nosotros entendimos por Graph Updates, vemos algunos algoritmos implementados en Neo4j y luego recreamos dichos algoritmos utilizando graph updates, luego comparamos los rendimientos entre los algoritmos y finalmente hablamos de las limitaciones y futuro trabajo para quienes desean seguir por esta rama. El video se encuentra [aquí](https://youtu.be/8qE18u-39BQ)
