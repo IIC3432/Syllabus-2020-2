@@ -8,6 +8,7 @@ Esta carpeta contiene instrucciones y material para el tercer módulo del curso,
 - Videos [modelos de inferencia](https://www.youtube.com/playlist?list=PLeLV_ztnnBShgxeOBKlt3pOumUBwItX5v)
 - Paper sobre [potential outcomes y bases de datos](https://arxiv.org/pdf/1609.03540.pdf)
 - Paper sobre [inferencia causal con modelos gráficos y bases de datos](https://linqs.soe.ucsc.edu/sites/default/files/papers/salami-sigmod20.pdf). 
+- Video ejemplificando [analisis causal en una bd] (https://drive.google.com/file/d/1dcdj7WbsZy5wf1qKDo599o0i33jbiptC/view?usp=sharing). 
 
 ## Material Complementario
 - Buen [tutorial](https://homes.cs.washington.edu/~suciu/Tutorial-Full.pdf) como punto de partida para estudiar como la inferencia ayuda a definir el concepto de explicar de donde vienen las respuestas en una base de datos. 
