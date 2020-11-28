@@ -6,6 +6,9 @@ La idea es seguir el siguiente formato:
 Acá dar una descripción corta corta de lo que hicieron. 
 Y luego postear un [link](https://www.youtube.com/watch?v=xCDSVsXntOk), en este caso de un video explicando que es indecidible saber quien va a ganar en cierto juego de cartas.  
 
+### Grupo 1
+Explicamos un método de descubrimiento de relaciones causales en bases de datos. Para esto, utilizaremos restricciones causales dadas tanto por la ontología, como por el conocimiento de un usuario, donde ambos aportarán de manera interactiva a la construcción de un Modelo Probabilístico Relacional. Les dejamos el [link](https://drive.google.com/file/d/1ngMAPOgf43Kb60ihoxabAO9j225QGg6x/view?usp=sharing).
+
 ### Grupo 4
 Utilizamos inferencia sobre los datos de wikidata, mediante el algoritmo de Potential Outcomes con clustering, para determinar la influencia de dos factores (por separado) en ganar las elecciones presidenciales: El género del candidato y si el candidato tenía padre en cargo público. Este es el [link](https://youtu.be/fAhxsGWdk-I) de nuestra presentación.
 
