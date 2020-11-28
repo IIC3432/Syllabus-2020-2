@@ -9,6 +9,9 @@ Y luego postear un [link](https://www.youtube.com/watch?v=xCDSVsXntOk), en este 
 ### Grupo 1
 Explicamos un método de descubrimiento de relaciones causales en bases de datos. Para esto, utilizaremos restricciones causales dadas tanto por la ontología, como por el conocimiento de un usuario, donde ambos aportarán de manera interactiva a la construcción de un Modelo Probabilístico Relacional. Les dejamos el [link](https://drive.google.com/file/d/1ngMAPOgf43Kb60ihoxabAO9j225QGg6x/view?usp=sharing).
 
+### Grupo 2
+We start by explaining the importances of algorithmic fairness and then we explain some associational and causal fairness definitions with some examples. We also talk about three data manegement techniques: causal firness as integrity constrains, query rewriting and database repair. You will find the video in this [link](https://youtu.be/K2_WQlDvQ-Y).
+
 ### Grupo 4
 Utilizamos inferencia sobre los datos de wikidata, mediante el algoritmo de Potential Outcomes con clustering, para determinar la influencia de dos factores (por separado) en ganar las elecciones presidenciales: El género del candidato y si el candidato tenía padre en cargo público. Este es el [link](https://youtu.be/fAhxsGWdk-I) de nuestra presentación.
 
