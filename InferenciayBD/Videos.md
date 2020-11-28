@@ -15,6 +15,9 @@ We start by explaining the importances of algorithmic fairness and then we expla
 ### Grupo 4
 Utilizamos inferencia sobre los datos de wikidata, mediante el algoritmo de Potential Outcomes con clustering, para determinar la influencia de dos factores (por separado) en ganar las elecciones presidenciales: El género del candidato y si el candidato tenía padre en cargo público. Este es el [link](https://youtu.be/fAhxsGWdk-I) de nuestra presentación.
 
+### Grupo 6
+Utilizamos inferencia sobre los datos del Plebscito Nacional de 2020. Explicamos cómo construimos el set de datos, que además incluye información del Censo 2017 y de las elecciones presidenciales anteriores y proponemos un modelo que permite analizar el efecto causal de votaciones en primera y segunda vuelta presidencial sobre el resultado del Plebiscito. Link de nuestra presentación [aquí](https://drive.google.com/file/d/1rAfYW_G-pel73_lA6GjRem7Ew7Kp-5Dp/view?usp=sharing). Enlace del repositorio: https://github.com/fjlopez7/TABD-T3.
+
 ### Grupo 7
 Explicamos a grandes rasgos fairness en base de datos, para luego explicar mas en detalle Interventional Fairness y finalizamos con un algoritmo para convertir un training set en un training set donde los algoritmos de clasificacion entrenados en el, cumplan con el criterio de Fairness. A continuacion el link de nuestra presentacion [link](https://drive.google.com/file/d/1uZpuFogKqDZyrtVdri9uI4YSaf1d_JZc/view?usp=sharing)
 
