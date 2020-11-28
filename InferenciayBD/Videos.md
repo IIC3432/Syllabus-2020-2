@@ -14,3 +14,6 @@ Utilizamos inferencia sobre los datos de wikidata, mediante el algoritmo de Pote
 
 ### Grupo 7
 Explicamos a grandes rasgos fairness en base de datos, para luego explicar mas en detalle Interventional Fairness y finalizamos con un algoritmo para convertir un training set en un training set donde los algoritmos de clasificacion entrenados en el, cumplan con el criterio de Fairness. A continuacion el link de nuestra presentacion [link](https://drive.google.com/file/d/1uZpuFogKqDZyrtVdri9uI4YSaf1d_JZc/view?usp=sharing)
+
+### Grupo 8
+Se presenta el proceso de In-Database Learning, en donde se explica como se puede utilizar machine learning internalizado en una base de datos. Se compara el proceso tradicional de machine learning externo a una base de datos y se destacan las ventajas de la internalización. El video lo pueden ver [aqui](https://drive.google.com/file/d/1btbNab8_8i_jZZinhzmxmH4tZcaVuqNG/view?usp=sharing)
