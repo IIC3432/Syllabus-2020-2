@@ -14,7 +14,7 @@ We start by explaining the importances of algorithmic fairness and then we expla
 
 ## Grupo 3
 
-Aplicamos métodos de inferencia sobre los datos de wikidata para ver la causalidad entre el grupo étnico de un académico/a y su proficencia en artículos científicos. Además, se aplicaron ciertas técnicas estadísticas y de grafos para darle más expresividad a nuestra investigación. La presentación se encuentra en [este link](https://docs.google.com/presentation/d/1ctSyolc58pKq6H6UZ-jV-YPb-AHcapJM63xY1odYsu0/edit?usp=sharing) 
+Aplicamos métodos de inferencia sobre los datos de wikidata para ver la causalidad entre el grupo étnico de un académico/a y su proficencia en artículos científicos. Además, se aplicaron ciertas técnicas estadísticas y de grafos para darle más expresividad a nuestra investigación. La presentación se encuentra en [este link](https://docs.google.com/presentation/d/1ctSyolc58pKq6H6UZ-jV-YPb-AHcapJM63xY1odYsu0/edit?usp=sharing) y el video en [este link](https://drive.google.com/file/d/15CRtSqrXzayye7ZBiMbe_RhRKa0WrKbt/view?usp=sharing).
 
 ### Grupo 4
 Utilizamos inferencia sobre los datos de wikidata, mediante el algoritmo de Potential Outcomes con clustering, para determinar la influencia de dos factores (por separado) en ganar las elecciones presidenciales: El género del candidato y si el candidato tenía padre en cargo público. Este es el [link](https://youtu.be/fAhxsGWdk-I) de nuestra presentación.
