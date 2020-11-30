@@ -12,6 +12,10 @@ Explicamos un método de descubrimiento de relaciones causales en bases de datos
 ### Grupo 2
 We start by explaining the importances of algorithmic fairness and then we explain some associational and causal fairness definitions with some examples. We also talk about three data manegement techniques: causal firness as integrity constrains, query rewriting and database repair. You will find the video in this [link](https://youtu.be/K2_WQlDvQ-Y).
 
+## Grupo 3
+
+Aplicamos metodos de inferencia con la data de la base de datos de Wikipedia para ver la causalidad entre el grupo étnico de un academico/a y su proficencia en artículos cientificos, además se aplicaron ciertas técnicas estadisticas y de grafos para poder darle más expresividad a nuestra investigación. La presentación se encuentra en [este link](https://docs.google.com/presentation/d/1ctSyolc58pKq6H6UZ-jV-YPb-AHcapJM63xY1odYsu0/edit?usp=sharing) 
+
 ### Grupo 4
 Utilizamos inferencia sobre los datos de wikidata, mediante el algoritmo de Potential Outcomes con clustering, para determinar la influencia de dos factores (por separado) en ganar las elecciones presidenciales: El género del candidato y si el candidato tenía padre en cargo público. Este es el [link](https://youtu.be/fAhxsGWdk-I) de nuestra presentación.
 
