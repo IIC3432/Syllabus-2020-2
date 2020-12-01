@@ -27,3 +27,6 @@ Explicamos a grandes rasgos fairness en base de datos, para luego explicar mas e
 
 ### Grupo 8
 Se presenta el proceso de In-Database Learning, en donde se explica como se puede utilizar machine learning internalizado en una base de datos. Se compara el proceso tradicional de machine learning externo a una base de datos y se destacan las ventajas de la internalización. El video lo pueden ver [aqui](https://drive.google.com/file/d/1btbNab8_8i_jZZinhzmxmH4tZcaVuqNG/view?usp=sharing)
+
+### Grupo 9
+Se presenta una inferencia causal en la base de datos de delincuentes, pasando del grafo ya visto a una tabla. Con esto, vemos la influencia que tiene pertenecer a un grupo de personas o trabajar sólo en la peligrosidad de los individuos, mediante el cálculo del average treatment effect. El video se encuentra en este [link] (https://drive.google.com/file/d/1h08izOw6aP0iKvGAChjH1UsopXH5_qHM/view?usp=sharing)
