@@ -12,7 +12,7 @@ Explicamos un método de descubrimiento de relaciones causales en bases de datos
 ### Grupo 2
 We start by explaining the importances of algorithmic fairness and then we explain some associational and causal fairness definitions with some examples. We also talk about three data manegement techniques: causal firness as integrity constrains, query rewriting and database repair. You will find the video in this [link](https://youtu.be/K2_WQlDvQ-Y).
 
-## Grupo 3
+### Grupo 3
 
 Aplicamos métodos de inferencia sobre los datos de wikidata para ver la causalidad entre el grupo étnico de un académico/a y su proficencia en artículos científicos. Además, se aplicaron ciertas técnicas estadísticas y de grafos para darle más expresividad a nuestra investigación. La presentación se encuentra en [este link](https://docs.google.com/presentation/d/1ctSyolc58pKq6H6UZ-jV-YPb-AHcapJM63xY1odYsu0/edit?usp=sharing) y el video en [este link](https://drive.google.com/file/d/15CRtSqrXzayye7ZBiMbe_RhRKa0WrKbt/view?usp=sharing).
 
