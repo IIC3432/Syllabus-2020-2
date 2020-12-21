@@ -20,3 +20,6 @@ Se extendió el trabajo realizado sobre sharding en Neo4j. En esta presentación
 
 ### Grupo 6
 Hicimos una comparación entre networkx y pygraphblas. Partimos haciendo un resumen de la sintaxis y teoría detrás de cada una (resumen porque fue visto en las presentaciones de graph analitycs) y además profundizamos un poco más en estos temas. Luego hablamos sobre la comparación de tiempos de ejecución de tres algoritmos con cada framework variando la cantidad de nodos. Este es el [link](https://drive.google.com/file/d/1OV6IlfLBjkWQC2Wf4w7eA5_yDKXa_-xs/view?usp=sharing) del video.
+
+### Grupo 7
+Se continuó el trabajo sobre grafos causales en el Plebiscito Nacional de 2020. Se extendió la base de datos y utilizaron modificaciones de las redes bayesianas hechas en la tarea 3 para analizar la influencia de cada elección en el resultado del Plebiscito. Este es el [link](https://drive.google.com/file/d/1kMAW0bavBPoSQMMQHfXXeENcGB-fCd_Q/view?usp=sharing) del video. Para acceder al repositorio con el código utilizado, hacer click [aquí](https://github.com/fjlopez7/TABD-T3).
