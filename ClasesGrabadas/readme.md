@@ -22,3 +22,7 @@ Para ir dejando las grabaciones de las clases
 
 [Clase en drive](https://drive.google.com/file/d/1IRtWTIhtz2D4eJKVvOq4VVR1klf-kN0a/view?usp=sharing) - el principio está lento por que se me había caído el lapiz del tablet en el sillon y no podía encontrarlo (cosas de trabajar en la casa...)
 
+
+## Inferencia en BD
+
+[Clase en zoom - se supone que no se borra](https://zoom.us/rec/share/i5_qstbyFLh7VYTF_g4Jqr2sxlCZZZ4QtAU6m1vAIuvB021ObU4fSrjw382WEPv4.EhvaLBuwZnz_LTB5?startTime=1603825491000)
