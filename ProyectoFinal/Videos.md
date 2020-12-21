@@ -23,3 +23,7 @@ Hicimos una comparación entre networkx y pygraphblas. Partimos haciendo un resu
 
 ### Grupo 7
 Se continuó el trabajo sobre grafos causales en el Plebiscito Nacional de 2020. Se extendió la base de datos y utilizaron modificaciones de las redes bayesianas hechas en la tarea 3 para analizar la influencia de cada elección en el resultado del Plebiscito. Este es el [link](https://drive.google.com/file/d/1kMAW0bavBPoSQMMQHfXXeENcGB-fCd_Q/view?usp=sharing) del video. Para acceder al repositorio con el código utilizado, hacer click [aquí](https://github.com/fjlopez7/TABD-T3).
+
+### Grupo 8
+Esta presentación es una continuacion en el tema de Message Passing Neural Netwoks, se ve específicamente una forma de mejorar la expresividad de las redes neuronales de grafos sin limitarse a los test de Weisfeiler Lehman con el uso de Graph Substructure Networks. Este es el [link](https://youtu.be/p7Jl76e8fK0) al video.
+
