@@ -12,6 +12,9 @@ Continuamos con el trabajo realizado sobre el tema de inferencia en bases de dat
 ### Grupo 2
 Se extendió el trabajo realizado sobre inferencia en candidaturas presidenciales sobre los datos de wikidata. Hubo extracción de más datos, selección más detallada de columnas, aplicación de modelos de evaluación de clustering, diferentes métodos de clustering y se analizó y propuso una forma de hacer tratamiento multivariable. El link del video es el [siguiente](https://youtu.be/6KZtNFFAPxw)
 
+### Grupo 3
+Se extendió el trabajo realizado en el modelo causal sobre la base de datos de delincuentes, ahora tomando más variables (sexo y circunscripción) gracias a un cruce con una base de datos del SERVEL, y aplicando métodos más sofisticados para modelar los efectos de tratamiento de delinquir en grupo o no, sobre la peligrosidad del individuo. En ese sentido, se definen los heterogeneous treatment effects, que básicamente nos permite calcular el efecto de tratamiento en cada individuo, y se aplica el método de causal forest en R. El video está en el siguiente [link](https://drive.google.com/file/d/1SUmFMwsg81WZPo6SYdUw7VY1J89DYrGx/view?usp=sharing)
+
 ### Grupo 4
 Estudiamos el problema de out-of-sample en grafos y estudiamos dos focos de solución, un método numérico y otro medinte aprendizaje profundo. Para la primera solución, implementamos el método y lo probamos en un set de datos. Para la segunda solución, realizamos una revisión bibliográfica del estado del arte y los aportes de cada trabajo. Les dejamos el [link](https://drive.google.com/file/d/1Ra203Fb48outZZ85rNbDm4dPmRtUpNkH/view?usp=sharing).
 
