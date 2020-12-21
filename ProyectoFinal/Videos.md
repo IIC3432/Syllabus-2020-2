@@ -20,3 +20,6 @@ Se extendió el trabajo realizado sobre sharding en Neo4j. En esta presentación
 
 ### Grupo 6
 Hicimos una comparación entre networkx y pygraphblas. Partimos haciendo un resumen de la sintaxis y teoría detrás de cada una (resumen porque fue visto en las presentaciones de graph analitycs) y además profundizamos un poco más en estos temas. Luego hablamos sobre la comparación de tiempos de ejecución de tres algoritmos con cada framework variando la cantidad de nodos. Este es el [link](https://drive.google.com/file/d/1OV6IlfLBjkWQC2Wf4w7eA5_yDKXa_-xs/view?usp=sharing) del video.
+
+### Grupo 8
+Esta presentación es una continuacion en el tema de Message Passing Neural Netwoks, se ve específicamente una forma de mejorar la expresividad de las redes neuronales de grafos sin limitarse a los test de Weisfeiler Lehman con el uso de Graph Substructure Networks. Este es el [link](https://youtu.be/p7Jl76e8fK0) al video.
