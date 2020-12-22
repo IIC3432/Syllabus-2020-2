@@ -32,3 +32,6 @@ Esta presentación es una continuacion en el tema de Message Passing Neural Netw
 
 ### Grupo 10
 La presentación trata sobre las vulneraciones de seguridad que se puede dar en las bases de datos usando inferencia, y métodos propuestos para evitarlo, tanto para 1 sólo sistema como para múltiples sistemas relacionados. A continuación, se deja el enlace al [video](https://youtu.be/6oEJeoksJ7Y).
+
+### Grupo 11
+La presentación trata en detalle el tema de GraphBLAS, explicando desde cuales son los puntos importantes para poder computar distintas métricas dentro de un grafo a través de su matriz de adyacencia y una revisión bastante completa de varias tecnologias que permiten computar de forma eficiente esto en la práctica. [Carpeta drive](https://drive.google.com/drive/folders/1tIEKCpKAwHXykcrvdKMAVjkCAlOrqy5y?usp=sharing) donde se encuentra video, presentación y links extra.
