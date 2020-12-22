@@ -27,3 +27,5 @@ Se continuó el trabajo sobre grafos causales en el Plebiscito Nacional de 2020.
 ### Grupo 8
 Esta presentación es una continuacion en el tema de Message Passing Neural Netwoks, se ve específicamente una forma de mejorar la expresividad de las redes neuronales de grafos sin limitarse a los test de Weisfeiler Lehman con el uso de Graph Substructure Networks. Este es el [link](https://youtu.be/p7Jl76e8fK0) al video.
 
+### Grupo 10
+La presentación trata sobre las vulneraciones de seguridad que se puede dar en las bases de datos usando inferencia, y métodos propuestos para evitarlo, tanto para 1 sólo sistema como para múltiples sistemas relacionados. A continuación, se deja el enlace al [video](https://youtu.be/6oEJeoksJ7Y).
